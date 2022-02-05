@@ -22,3 +22,5 @@ def shrink(image, factor):
     new.draw()
 
 shrink(im,2)
+
+# Need some changes
